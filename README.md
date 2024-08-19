@@ -15,7 +15,7 @@ working in a project that integrates neurosky mindwave with virtual reality to b
 
 ## achievements
 
-- 500 dollar prize 2-days-long Hackathon, 1st place - VR Fire Escape Simulation, 2023
+- 500 dollar prize 2-day-long Hackathon, 1st place - VR Fire Escape Simulation, 2023
 - [RoboCore Experience](https://www.robocoreexperience.com/), 2nd place - [SAFE](https://github.com/inteiros/SAFE), 2023
 - [RoboCore Experience](https://www.robocoreexperience.com/), Originality Prize - [SAFE](https://github.com/inteiros/SAFE), 2023
 - Copa Pinhão ArtBot Kinetic, 1st place  - [SAFE](https://github.com/inteiros/SAFE), 2023
