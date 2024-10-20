@@ -17,7 +17,7 @@ working in a project that integrates neurosky mindwave with virtual reality to b
 
 - 500 dollar prize 2-day-long Hackathon, 1st place - VR Fire Escape Simulation, 2023
 - [RoboCore Experience](https://www.robocoreexperience.com/), 2nd place - [SAFE](https://github.com/inteiros/SAFE), 2023
-- [RoboCore Experience](https://www.robocoreexperience.com/), Originality Prize - [SAFE](https://github.com/inteiros/SAFE), 2023
+- [RoboCore Experience](https://www.robocoreexperience.com/), Originality Award - [SAFE](https://github.com/inteiros/SAFE), 2023
 - Copa Pinhão ArtBot Kinetic, 1st place  - [SAFE](https://github.com/inteiros/SAFE), 2023
 - Hackathon MegaHack 2º Edition (G1, VTEX, Gorila, etc), 5th place - [Inves](https://github.com/inteiros/InvestinderBackend)[Tinder](https://github.com/inteiros/InvestinderFrontend), 2020
 - X FECTI, 1st place - Parental Automatic Safety System, 2016
