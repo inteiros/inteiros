@@ -11,7 +11,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI initiati
 
 ## currently
 
-working in a project that integrates EEG, AI and VR: [VRET-AI Fear Detection]([https://github.com/inteiros/SAFE](https://github.com/inteiros/VRET-AI_Fear_Detection))
+working in a project that integrates EEG, AI and VR: [VRET-AI Fear Detection](https://github.com/inteiros/VRET-AI_Fear_Detection)
 
 ## achievements
 
