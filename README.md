@@ -11,7 +11,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI initiati
 
 ## currently
 
-working in a project that integrates neurosky mindwave with virtual reality to be applied in VRET for the treatment of thalassophobia
+working in a project that integrates EEG, AI and VR: [VRET-AI Fear Detection]([https://github.com/inteiros/SAFE](https://github.com/inteiros/VRET-AI_Fear_Detection))
 
 ## achievements
 
@@ -24,5 +24,3 @@ working in a project that integrates neurosky mindwave with virtual reality to b
 - MuCIT, 1st place - Color-based Automatic Harvesting, 2019
 
 <br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jgeler/)
