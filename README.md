@@ -1,6 +1,6 @@
 # hello there
 
-I'm jo - I mainly work on indie games, VR projects, data science and AI initiatives.
+I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inteiros&theme=tokyonight&langs_count=7)
 
@@ -11,7 +11,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI initiati
 
 ## currently
 
-working in a project that integrates EEG, AI and VR: [VRET-AI Fear Detection](https://github.com/inteiros/VRET-AI_Fear_Detection)
+Writing an article on making a neurodivergent AI: [AI-utism](https://github.com/inteiros/AI-utism)
 
 ## achievements
 
