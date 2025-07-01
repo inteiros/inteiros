@@ -7,7 +7,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI.
 ## techs
 
 - **langs:** despite the github chart above, I use not only python but a lot of C++ and C# in my personal projects
-- **frameworks, engines, and libraries:** react, angular, unity, tensorflow, scikit-learn, pandas
+- **frameworks, engines, and libraries:** react, angular, unity, pytorch, tensorflow, scikit-learn, pandas
 
 ## currently
 
