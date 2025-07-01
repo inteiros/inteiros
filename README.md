@@ -2,7 +2,7 @@
 
 I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteiros&theme=omni&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteiros&theme=transparent&layout=pie)
 
 ## techs
 
