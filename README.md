@@ -2,7 +2,7 @@
 
 I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inteiros&theme=tokyonight&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteiros&theme=omni&layout=pie)
 
 ## techs
 
@@ -11,7 +11,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
 ## currently
 
-Writing an article on making a neurodivergent AI: [AI-utism](https://github.com/inteiros/AI-utism)
+Creating the world's first Autistic Large Language Model: [AI-utism](https://github.com/inteiros/AI-utism)
 
 ## achievements
 
