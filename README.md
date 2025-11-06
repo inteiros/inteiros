@@ -11,7 +11,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
 ## currently
 
-Creating the world's first Autistic Large Language Model: [AI-utism](https://github.com/inteiros/AI-utism)
+working on my masters
 
 ## achievements
 
