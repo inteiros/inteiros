@@ -2,8 +2,6 @@
 
 I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inteiros&theme=transparent&layout=pie)
-
 ## techs
 
 - **langs:** python, C++ and C# in my personal projects
@@ -11,7 +9,7 @@ I'm jo - I mainly work on indie games, VR projects, data science and AI.
 
 ## currently
 
-working on my masters on AI, studying compilers and cloud computing
+working on my masters on AI
 
 ## achievements
 
